@@ -16,29 +16,29 @@
 
 ## => Site Settings
 ##############################
-text_skin: default # "default" (default), "dark", "forest", "ocean", "chocolate", "orange"
+text_skin: ocean # "default" (default), "dark", "forest", "ocean", "chocolate", "orange"
 highlight_theme: default # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
 url     : # the base hostname & protocol for your site e.g. https://www.someone.com
 baseurl : # does not include hostname
-title   : Your Site Title
+title   : 紙が眼―MarclarChanのワークショップ 
 description: > # this means to ignore newlines until "Language & timezone"
-  Your Site Description
+  日本語で、新たな視点を生活に。
 
 
 ## => Language and Timezone
 ##############################
-lang: # the language of your site, default as "en"
-timezone: # see https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for the available values
+lang: zh
+timezone: Asia/Shanghai # see https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for the available values
 
 
 ## => Author and Social
 ##############################
 author:
   type      : # "person" (default), "organization"
-  name      : Your Name
+  name      : MarclarChan(侨鹭)
   url       :
-  avatar    : # path or url of avatar image (square)
-  bio       : I am an amazing person.
+  avatar    : https://sl-papereye-1258758644.cos.ap-guangzhou.myqcloud.com/200406%E4%B8%AA%E4%BA%BA%E5%A4%B4%E5%83%8F%26200505%E5%85%AC%E4%BC%97%E5%8F%B7%E5%A4%B4%E5%83%8F/200406%E4%B8%AA%E4%BA%BA%E5%A4%B4%E5%83%8Flogo.png # path or url of avatar image (square)
+  bio       : 博客处于建设中。
   email     :
   facebook  : # "user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name
   twitter   : # "user_name" the last part of your profile url, e.g. https://twitter.com/user_name
@@ -49,7 +49,7 @@ author:
   zhihu     : # "user_name" the last part of your profile url, e.g. https://www.zhihu.com/people/user_name
   douban    : # "user_name" the last part of your profile url, e.g. https://www.douban.com/people/user_name
   linkedin  : # "user_name" the last part of your profile url, e.g. https://www.linkedin.com/in/user_name
-  github    : # "user_name" the last part of your profile url, e.g. https://github.com/user_name
+  github    : https://github.com/MarclarChan # "user_name" the last part of your profile url, e.g. https://github.com/user_name
   npm       : # "user_name" the last part of your profile url, e.g. https://www.npmjs.com/~user_name
 
 
@@ -96,7 +96,7 @@ chart: # false (default), true
 
 ## => Paginate
 ##############################
-paginate: 8
+paginate: 3
 paginate_path: /page:num # don't change this unless for special need
 
 
