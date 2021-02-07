@@ -16,13 +16,13 @@
 
 ## => Site Settings
 ##############################
-text_skin: chocolate # "default" (default), "dark", "forest", "ocean", "chocolate", "orange"
-highlight_theme: default # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
+text_skin: default # "default" (default), "dark", "forest", "ocean", "chocolate", "orange"
+highlight_theme: tomorrow-night-bright # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
 url     : # the base hostname & protocol for your site e.g. https://www.someone.com
 baseurl : # does not include hostname
 title   : 紙が眼―MarclarChanのワークショップ 
 description: > # this means to ignore newlines until "Language & timezone"
-  日本語で、新たな視点を生活に。
+  言葉で、生活の新たな一面を。
 
 
 ## => Language and Timezone
