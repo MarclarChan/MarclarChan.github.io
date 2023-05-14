@@ -1,0 +1,164 @@
+{
+  "main": {
+    "id": "8082427d6a2cae13",
+    "type": "split",
+    "children": [
+      {
+        "id": "6541ad19371cdfa0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6b4d71a8ebc4dc45",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2023-05-14-baby.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b408f032b590e715",
+    "type": "split",
+    "children": [
+      {
+        "id": "536bcf7c421954f4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "33a46d8a37a0fbb2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cdbe760a3018c222",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4c7748d76b2c43e9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "673995cad9dbad65",
+    "type": "split",
+    "children": [
+      {
+        "id": "795ab70192497959",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a21cdc158b415967",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2023-05-14-baby.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d38d7b24022a0612",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2023-05-14-baby.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a4a542b613508cb0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0002e7359acdd829",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2023-05-14-baby.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "6b4d71a8ebc4dc45",
+  "lastOpenFiles": [
+    "2016-05-28-正则表达式.md",
+    "2016-10-25-servlet3-0-asynccontext.md",
+    "2023-05-14-baby.md",
+    "2016-08-20-css3-变换-渐变-动画.md",
+    "2016-11-22-sql常用语句.md",
+    "2016-11-17-mybatis笔记整理.md",
+    "2016-10-15-使用CSS3让网页动起来.md",
+    "2016-05-27-Java网络通信.md",
+    "01.png.md",
+    "2016-04-16-深入探究z-index.md",
+    "2015-01-01-主题预览.md",
+    "2016-06-12-观察者模式-单例模式.md"
+  ]
+}
